@@ -48,13 +48,13 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/MichBobr75/test_game/blob/main/README.md#Оглавление)
+:arrow_up:[файл с решением](https://github.com/MichBobr75/test_game/blob/main/game_v2.py)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к проекту в блокноте](https://colab.research.google.com/drive/1iDhLTzB92uqJGoAyKAz8xvxryyzLobqT?usp=sharing)
+:arrow_up:[файл с результатом](https://github.com/MichBobr75/test_game/blob/main/game.ipynb)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
