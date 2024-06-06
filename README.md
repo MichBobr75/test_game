@@ -15,7 +15,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/MichBobr75/test_game/blob/main/README.md#Оглавление)
+:arrow_up:(https://colab.research.google.com/drive/1iDhLTzB92uqJGoAyKAz8xvxryyzLobqT?usp=sharing)
 
 
 ### Какой кейс решаем?    
@@ -29,13 +29,14 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
 
 **Что практикуем**     
-Учимся писать хороший код на python
-
+- Учимся писать хороший код на python
+- Учимся работать с IDE
+- Учимся работать с GitHub
 
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/MichBobr75/test_game/blob/main/README.md#Оглавление)
+:arrow_up:[к файлу данных в блокноте](https://colab.research.google.com/drive/1iDhLTzB92uqJGoAyKAz8xvxryyzLobqT?usp=sharing)
 
 
 ### Этапы работы над проектом  
@@ -53,7 +54,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/MichBobr75/test_game/blob/main/README.md#Оглавление)
+:arrow_up:[к проекту в блокноте](https://colab.research.google.com/drive/1iDhLTzB92uqJGoAyKAz8xvxryyzLobqT?usp=sharing)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
